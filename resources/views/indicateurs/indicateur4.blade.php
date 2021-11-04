@@ -18,7 +18,7 @@
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
-            <h3><a href="performances">Performance des services veterinaires</a></h3>
+            <h3><a href="recherche">Performance des services veterinaires</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">

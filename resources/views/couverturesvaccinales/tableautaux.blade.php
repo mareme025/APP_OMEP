@@ -10,10 +10,10 @@
     <tr>
       <th scope="col">Maladies</th>
       <th scope="col">Effectifs Estimes</th>
-      <th scope="col">Veterinaires Privées </th>
-      <th scope="col">Veterianires Public </th>
+      <th scope="col"> Privées </th>
+      <th scope="col"> Public </th>
       <th scope="col">Total</th>
-      <th scope="col">Taux de couvertures vaccinales</th>
+      <th scope="col">Taux de couvertures </th>
       <th scope="col">Pays</th>
       <th scope="col">Année</th>
     </tr>

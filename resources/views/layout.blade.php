@@ -58,7 +58,7 @@
           <li><a class="nav-link scrollto" href="http://127.0.0.1:8000/#about">Mot du Directeur General</a></li>
           <li><a class="nav-link scrollto" href="http://127.0.0.1:8000/#services">Indicateurs</a></li>
           </li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          <li><a class="nav-link scrollto" href="http://127.0.0.1:8000/#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
@@ -110,7 +110,7 @@
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
             <i class="ri-database-2-line"></i>
-            <h3><a href="#services">Indicateurs</a></h3>
+            <h3><a href="http://127.0.0.1:8000/#services">Indicateurs</a></h3>
           </div>
         </div>
       </div>
