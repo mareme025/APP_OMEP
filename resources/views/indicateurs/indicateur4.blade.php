@@ -13,7 +13,7 @@
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
-            <h3><a href="recherchetaux">Taux de couvertures vaccinales</a></h3>
+            <h3><a href="recherchetaux">Taux de couverture vaccinale</a></h3>
           </div>
         </div>
         <div class="col-xl-2 col-md-4">
@@ -23,7 +23,7 @@
         </div>
         <div class="col-xl-2 col-md-4">
           <div class="icon-box">
-            <h3><a href="">Quantité importées ou produites</a></h3>
+            <h3><a href="">Quantité importées ou produites des produits veterinaires</a></h3>
           </div>
         </div>
       </div>
