@@ -54,9 +54,9 @@
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Accueil</a></li>
-          <li><a class="nav-link scrollto" href="#about">Mot du Directeur General</a></li>
-          <li><a class="nav-link scrollto" href="#services">Indicateurs</a></li>
+          <li><a class="nav-link scrollto active" href="http://127.0.0.1:8000/#hero">Accueil</a></li>
+          <li><a class="nav-link scrollto" href="http://127.0.0.1:8000/#about">Mot du Directeur General</a></li>
+          <li><a class="nav-link scrollto" href="http://127.0.0.1:8000/#services">Indicateurs</a></li>
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>

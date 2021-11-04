@@ -6,7 +6,7 @@
         <div class="row">
             <div class="col-8 mt-5">
             <form action="{{url('performances')}}" method="POST" enctype="multipart/form-data">
-            @csrf
+            {{csrf_field()}}
             <div class="mb-3">
                     <label for="exampleInputEmail1" class="form-label">choisie un fichier</label>
                     <input type="file" name="fichier" class="form-control" id="exampleInputEmail1" aria-describedby="vaccinsHelp">
@@ -25,9 +25,9 @@
                     <select name="annee" id="annee" class="form-control">
                         <option value="Select Years"></option>
                         <option value="2018">2018</option>
-                        <option value="2019">2019</option>
+                       <!-- <option value="2019">2019</option>
                         <option value="2020">2020</option>
-                        <option value="2021">2021</option>
+                        <option value="2021">2021</option>-->
                        
                     </select>
                 </div>
