@@ -37,7 +37,7 @@
 
         <div class="section-title">
           <h2>Indicateurs</h2>
-          <p>Choisissez un indicateur</p>
+          <p>Choisi un Indicateur</p>
         </div>
 
         <div class="row">
@@ -46,6 +46,7 @@
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
               <h4><a href="">Acteurs du secteur de l’Elevage et de la Pêche et leurs
                 géolocalisations</a></h4>
+              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
             </div>
           </div>
 
@@ -53,6 +54,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
               <h4><a href=""> Productions animales et halieutiques</a></h4>
+              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
             </div>
           </div>
 
@@ -61,6 +63,7 @@
               <div class="icon"><i class="bx bx-tachometer"></i></div>
               <h4><a href="">Structures et Infrastructures d’appui au secteur de l’Elevage et de
                 la Pèche et leurs géolocalisations</a></h4>
+              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
             </div>
           </div>
 
@@ -68,6 +71,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
               <h4><a href="https://omep-eismv.herokuapp.com/indicateurs">Santé animale</a></h4>
+              <p>Cette partie gére le taux de couverture vaccinale et la performance des services veterinaires</p>
             </div>
           </div>
 
@@ -76,6 +80,7 @@
               <div class="icon"><i class="bx bx-slideshow"></i></div>
               <h4><a href="">Industries Agroalimentaires des secteurs de l’Elevage et de la
                 Pèche</a></h4>
+              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
             </div>
           </div>
 
@@ -83,6 +88,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bx bx-arch"></i></div>
               <h4><a href="">Commercialisation et apports de l’Elevage et de la Pêche</a></h4>
+              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
@@ -90,6 +96,7 @@
               <div class="icon"><i class="bx bx-arch"></i></div>
               <h4><a href="">Démographie des vétérinaires et para-vétérinaires dans l’espace
                 EISMV</a></h4>
+              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
@@ -97,6 +104,7 @@
               <div class="icon"><i class="bx bx-arch"></i></div>
               <h4><a href=""> Insertion professionnelle dans les secteurs de l’Elevage et de la
                 Pêche </a></h4>
+              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
             </div>
           </div>
         </div>
