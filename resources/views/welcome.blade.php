@@ -137,7 +137,6 @@
                 <p>Tel : (221) 33 865 10 08</p>
                 <p>Fax : (221) 33 825 42 83</p>
               </div>
-
             </div>
 
           </div>
@@ -160,7 +159,7 @@
                 <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
               </div>
               <div class="my-3">
-                <div class="loading">Loading</div>
+                <div class="loading">Telechargement</div>
                 <div class="error-message"></div>
                 <div class="sent-message">Votre message a été envoyé. Merci!</div>
               </div>
