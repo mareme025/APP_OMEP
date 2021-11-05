@@ -55,7 +55,7 @@
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
           <li><a class="nav-link scrollto active" href="https://omep-eismv.herokuapp.com/#hero">Accueil</a></li>
-          <li><a class="nav-link scrollto" href="https://omep-eismv.herokuapp.com/#about">Mot du Directeur General</a></li>
+          <li><a class="nav-link scrollto" href="https://omep-eismv.herokuapp.com/#about">Mot du Directeur Général</a></li>
           <li><a class="nav-link scrollto" href="https://omep-eismv.herokuapp.com/#services">Indicateurs</a></li>
           </li>
           <li><a class="nav-link scrollto" href="https://omep-eismv.herokuapp.com/#contact">Contact</a></li>
@@ -127,7 +127,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Systeme Regional de Données<span></span></h3>
+              <h3>Systeme Régional de Données<span></span></h3>
               <p>
               BP: 5077-Dakar-Fann (SENEGAL)<br><br>
                 <strong>Phone:</strong> Tel: (221) 33 865 10 08<br>

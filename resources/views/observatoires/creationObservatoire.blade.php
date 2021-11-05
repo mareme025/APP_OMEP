@@ -2,7 +2,7 @@
 
 @section('content')
 
-<h1>CREATION DE L'OBSERVATOIRE</h1>
+<h1>A propos de l'OMEP</h1>
 <p>En tant que catégorie agricole, les métiers de l’Elevage, de la Pêche et de la Santé animale
 constituent un potentiel de développement majeur tant du point de vue de leur poids technique
 et stratégique, contribuant à la réalisation des Objectifs du Développement Durable (ODD),

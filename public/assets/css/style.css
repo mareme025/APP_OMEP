@@ -657,7 +657,7 @@ section {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #ffc451;
+  background: #389727;
   border-radius: 4px;
   display: flex;
   align-items: center;
@@ -680,7 +680,7 @@ section {
   transition: ease-in-out 0.3s;
 }
 .services .icon-box h4 a:hover {
-  color: #ffc451;
+  color: #1c501a;
 }
 .services .icon-box p {
   line-height: 24px;
@@ -1133,7 +1133,7 @@ section {
 }
 .contact .info i {
   font-size: 20px;
-  background: #ffc451;
+  background: #2a6b17;
   color: #151515;
   float: left;
   width: 44px;
@@ -1220,7 +1220,7 @@ section {
   padding: 10px 12px;
 }
 .contact .php-email-form button[type=submit] {
-  background: #ffc451;
+  background: #378124;
   border: 0;
   padding: 10px 24px;
   color: #151515;
