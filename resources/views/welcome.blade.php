@@ -67,7 +67,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4><a href="https://omep-eismv.herokuapp.com/indicateurs">Santé animale</a></h4>
+              <h4><a href="indicateurs">Santé animale</a></h4>
               <p>Cette partie gére le taux de couverture vaccinale et la performance des services veterinaires</p>
             </div>
           </div>
